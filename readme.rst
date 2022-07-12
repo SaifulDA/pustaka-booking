@@ -72,4 +72,4 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ***************
 ScreenShoot
 ***************
-https://github.com/SaifulDA/pustaka-booking/blob/master/Screenshoot/pustaka1.jpg?raw=true
+![alt text](https://github.com/SaifulDA/pustaka-booking/blob/master/Screenshoot/pustaka1.jpg?raw=true)
