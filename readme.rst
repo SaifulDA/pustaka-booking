@@ -69,8 +69,3 @@ Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
-***************
-ScreenShoot
-***************
-
-![image.png]( {https://github.com/SaifulDA/pustaka-booking/blob/master/Screenshoot/pustaka1.jpg?raw=true} )
