@@ -22,7 +22,7 @@ Screenshots:<br>
 <table style={border:"none"}><tr>
 <td><img src="https://github.com/SaifulDA/pustaka-booking/blob/36b85632eb8bbb7de5ed8aa422a347eff28b8a10/Screenshoot/pustaka1.jpg" alt="Screenshot 1"/></td>
 <td><img src="https://github.com/SaifulDA/pustaka-booking/blob/36b85632eb8bbb7de5ed8aa422a347eff28b8a10/Screenshoot/pustaka2.jpg" alt="Screenshot 2"/></td>
-<td><https://github.com/SaifulDA/pustaka-booking/blob/36b85632eb8bbb7de5ed8aa422a347eff28b8a10/Screenshoot/pustaka3.jpg" alt="Screenshot 3"/></td>
+<td><img src="https://github.com/SaifulDA/pustaka-booking/blob/36b85632eb8bbb7de5ed8aa422a347eff28b8a10/Screenshoot/pustak3.jpg" alt="Screenshot 3"/></td>
 </tr>
 <tr>
 <td><img src="https://github.com/SaifulDA/pustaka-booking/blob/36b85632eb8bbb7de5ed8aa422a347eff28b8a10/Screenshoot/pustaka4.jpg" alt="Screenshot 4"/></td>
